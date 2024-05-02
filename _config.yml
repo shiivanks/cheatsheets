@@ -6,10 +6,10 @@ url: https://shiivanks.github.io/cheatsheets
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/shiivanks/cheatsheets
-  "/assets/images/linkedin.png": https://www.linkedin.com/in/shiivanks/
-  "/assets/images/github.png": https://github.com/shiivanks
-  "/assets/images/instagram.png": https://www.instagram.com/shiivanks
-  "/assets/images/twitter.png": https://twitter.com/shiivanks
+  Linkedin: https://www.linkedin.com/in/shiivanks/
+  GitHub: https://github.com/shiivanks
+  Instagram: https://www.instagram.com/shiivanks
+  X": https://twitter.com/shiivanks
 
 
 # Makes Aux links open in a new tab. Default is false
