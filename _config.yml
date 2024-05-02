@@ -5,7 +5,6 @@ theme: just-the-docs
 url: https://shiivanks.github.io/cheatsheets
 
 aux_links: # remove if you don't want this link to appear on your pages
-  #Template Repository: https://github.com/shiivanks/cheatsheets
   LinkedIn: https://www.linkedin.com/in/shiivanks/
   GitHub: https://github.com/shiivanks
   Instagram: https://www.instagram.com/shiivanks
